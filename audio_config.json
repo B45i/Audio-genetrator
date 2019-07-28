@@ -1,0 +1,30 @@
+{
+	"welcomeMessage": "Hey pal, Let me assist you with anything you wanna know about any product. Just show me the product and i will help u out!",
+	"notFound": "Sorry, item details could not be found.",
+	"description": "Product name is {name}. {description}. Price is {price}. Expiry date is {expiry_date}",
+	"items": [{
+		"name": "Harpic",
+		"description": "Harpic Powerplus Toilet Cleaner Original, 1 Litter",
+		"price": "78 rupees",
+		"expiryDate": "july 2019",
+		"audio_id": 2
+	}, {
+		"name": "Vim",
+		"description": "Vim Dishwash Bar 200 gram, Pack of 3",
+		"price": "60 rupees",
+		"expiryDate": "july 2019",
+		"audio_id": 3
+	}, {
+		"name": "Surf Excel",
+		"description": "Surf Excel Easy Wash Detergent Powder, 1.5 kg",
+		"price": "50 rupees",
+		"expiryDate": "july 2019",
+		"audio_id": 4
+	}, {
+		"name": "Maggi",
+		"description": "Maggi 2 Minutes Noodles Masala, 560gram",
+		"price": "125 rupees",
+		"expiryDate": "july 2019",
+		"audio_id": 5
+	}]
+}
